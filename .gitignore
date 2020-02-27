@@ -4,4 +4,4 @@ data/*/checkpoints
 test*
 tmp*
 run*
-gt*
+gt/*
