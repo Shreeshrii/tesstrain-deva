@@ -1,0 +1,637 @@
+Loaded file /home/ubuntu/tesstrain-deva/data/allfonts/checkpoints/allfontsMinus_checkpoint, unpacking...
+Loaded file /home/ubuntu/tesstrain-deva/data/allfonts/checkpoints/allfontsMinus_checkpoint, unpacking...
+
+----------------------------------------------------------------------------- allfonts
+----------------------------------------------------------------------------- Devanagari  allfonts-shreelipi 
+
+ocreval Accuracy Report Version 7.0
+-----------------------------------
+     943   Characters
+       4   Errors
+   99.58%  Accuracy
+
+       0   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.00%  Characters Marked
+   99.58%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+       1        1        2        4   Unmarked
+       1        1        2        4   Total
+
+   Count   Missed   %Right
+     113        1    99.12   ASCII Spacing Characters
+       1        0   100.00   ASCII Special Symbols
+       3        0   100.00   ASCII Digits
+     826        1    99.88   Devanagari
+     943        2    99.79   Total
+
+  Errors   Marked   Correct-Generated
+       1        0   { }-{}
+----------------------------------------------------------------------------- Devanagari Finished shreelipi **********************************
+
+----------------------------------------------------------------------------- Devanagari  allfonts-Adobe_Devanagari 
+
+ocreval Accuracy Report Version 7.0
+-----------------------------------
+    6034   Characters
+      97   Errors
+   98.39%  Accuracy
+
+       3   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.05%  Characters Marked
+   98.39%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+      23       47       27       97   Unmarked
+      23       47       27       97   Total
+
+   Count   Missed   %Right
+     915        1    99.89   ASCII Spacing Characters
+     380        6    98.42   ASCII Special Symbols
+     405        1    99.75   ASCII Digits
+       2        0   100.00   Latin1 Special Symbols
+    4314       62    98.56   Devanagari
+      17        0   100.00   General Punctuation
+       1        0   100.00   Currency Symbols
+    6034       70    98.84   Total
+----------------------------------------------------------------------------- Devanagari Finished Adobe Devanagari **********************************
+
+----------------------------------------------------------------------------- Devanagari  allfonts-Aksharyogini2 
+
+ocreval Accuracy Report Version 7.0
+-----------------------------------
+    3122   Characters
+     150   Errors
+   95.20%  Accuracy
+
+       3   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.10%  Characters Marked
+   95.20%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+     104       36       10      150   Unmarked
+     104       36       10      150   Total
+
+   Count   Missed   %Right
+     486       10    97.94   ASCII Spacing Characters
+     204       17    91.67   ASCII Special Symbols
+     209        2    99.04   ASCII Digits
+       1        0   100.00   Latin1 Special Symbols
+    2191      103    95.30   Devanagari
+      31        8    74.19   General Punctuation
+    3122      140    95.52   Total
+
+----------------------------------------------------------------------------- Devanagari Finished Aksharyogini2 **********************************
+
+----------------------------------------------------------------------------- Devanagari  allfonts-Amiko 
+
+ocreval Accuracy Report Version 7.0
+-----------------------------------
+    3024   Characters
+       8   Errors
+   99.74%  Accuracy
+
+       0   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.00%  Characters Marked
+   99.74%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+       1        3        4        8   Unmarked
+       1        3        4        8   Total
+
+   Count   Missed   %Right
+     477        1    99.79   ASCII Spacing Characters
+     223        1    99.55   ASCII Special Symbols
+     144        0   100.00   ASCII Digits
+       2        0   100.00   Latin1 Special Symbols
+    2174        2    99.91   Devanagari
+       4        0   100.00   General Punctuation
+    3024        4    99.87   Total
+
+----------------------------------------------------------------------------- Devanagari Finished Amiko **********************************
+
+----------------------------------------------------------------------------- Devanagari  allfonts-Amiko_Bold 
+
+ocreval Accuracy Report Version 7.0
+-----------------------------------
+    4554   Characters
+     107   Errors
+   97.65%  Accuracy
+
+       1   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.02%  Characters Marked
+   97.65%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+      90       10        7      107   Unmarked
+      90       10        7      107   Total
+
+   Count   Missed   %Right
+     706       14    98.02   ASCII Spacing Characters
+     262        9    96.56   ASCII Special Symbols
+     279        8    97.13   ASCII Digits
+       2        0   100.00   Latin1 Special Symbols
+    3297       68    97.94   Devanagari
+       8        1    87.50   General Punctuation
+    4554      100    97.80   Total
+
+----------------------------------------------------------------------------- Devanagari Finished Amiko Bold **********************************
+
+----------------------------------------------------------------------------- Devanagari  allfonts-Amiko_Semi-Bold 
+
+ocreval Accuracy Report Version 7.0
+-----------------------------------
+    4474   Characters
+      18   Errors
+   99.60%  Accuracy
+
+       1   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.02%  Characters Marked
+   99.60%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+       5        9        4       18   Unmarked
+       5        9        4       18   Total
+
+   Count   Missed   %Right
+     698        1    99.86   ASCII Spacing Characters
+     267        5    98.13   ASCII Special Symbols
+     223        0   100.00   ASCII Digits
+    3274        8    99.76   Devanagari
+      11        0   100.00   General Punctuation
+       1        0   100.00   Currency Symbols
+    4474       14    99.69   Total
+
+----------------------------------------------------------------------------- Devanagari Finished Amiko Semi-Bold **********************************
+
+----------------------------------------------------------------------------- Devanagari  allfonts-Amita 
+
+ocreval Accuracy Report Version 7.0
+-----------------------------------
+    1440   Characters
+      66   Errors
+   95.42%  Accuracy
+
+       0   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.00%  Characters Marked
+   95.42%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+      30       24       12       66   Unmarked
+      30       24       12       66   Total
+
+   Count   Missed   %Right
+     215        5    97.67   ASCII Spacing Characters
+     178       19    89.33   ASCII Special Symbols
+      82        2    97.56   ASCII Digits
+     962       25    97.40   Devanagari
+       3        3     0.00   General Punctuation
+    1440       54    96.25   Total
+
+  Errors   Marked   Correct-Generated
+----------------------------------------------------------------------------- Devanagari Finished Amita **********************************
+
+----------------------------------------------------------------------------- Devanagari  allfonts-Amita_Bold 
+
+ocreval Accuracy Report Version 7.0
+-----------------------------------
+    2954   Characters
+      39   Errors
+   98.68%  Accuracy
+
+       1   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.03%  Characters Marked
+   98.68%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+       7       19       13       39   Unmarked
+       7       19       13       39   Total
+
+   Count   Missed   %Right
+     458        3    99.34   ASCII Spacing Characters
+     198       11    94.44   ASCII Special Symbols
+     123        2    98.37   ASCII Digits
+       1        0   100.00   Latin1 Special Symbols
+    2169        9    99.59   Devanagari
+       3        1    66.67   General Punctuation
+       2        0   100.00   Currency Symbols
+    2954       26    99.12   Total
+----------------------------------------------------------------------------- Devanagari Finished Amita Bold **********************************
+
+----------------------------------------------------------------------------- Devanagari  allfonts-Annapurna_SIL 
+
+ocreval Accuracy Report Version 7.0
+-----------------------------------
+    4366   Characters
+     173   Errors
+   96.04%  Accuracy
+
+       1   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.02%  Characters Marked
+   96.04%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+     154        6       13      173   Unmarked
+     154        6       13      173   Total
+
+   Count   Missed   %Right
+       2        0   100.00   Unassigned
+     706       34    95.18   ASCII Spacing Characters
+     299       13    95.65   ASCII Special Symbols
+     149        2    98.66   ASCII Digits
+       2        0   100.00   Latin1 Special Symbols
+    3197      110    96.56   Devanagari
+       9        1    88.89   General Punctuation
+       2        0   100.00   Currency Symbols
+----------------------------------------------------------------------------- Devanagari Finished Annapurna SIL **********************************
+
+----------------------------------------------------------------------------- Devanagari  allfonts-Annapurna_SIL_Bold 
+
+ocreval Accuracy Report Version 7.0
+-----------------------------------
+    5949   Characters
+     173   Errors
+   97.09%  Accuracy
+
+       2   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.03%  Characters Marked
+   97.09%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+     148        7       18      173   Unmarked
+     148        7       18      173   Total
+
+   Count   Missed   %Right
+       4        0   100.00   Unassigned
+     933       21    97.75   ASCII Spacing Characters
+     369       11    97.02   ASCII Special Symbols
+     252        3    98.81   ASCII Digits
+       4        0   100.00   Latin1 Special Symbols
+    4373      118    97.30   Devanagari
+      10        2    80.00   General Punctuation
+       4        0   100.00   Currency Symbols
+----------------------------------------------------------------------------- Devanagari Finished Annapurna SIL Bold **********************************
+
+----------------------------------------------------------------------------- Devanagari  allfonts-Aparajita 
+
+ocreval Accuracy Report Version 7.0
+-----------------------------------
+   10386   Characters
+     350   Errors
+   96.63%  Accuracy
+
+       4   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.04%  Characters Marked
+   96.63%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+     166      142       42      350   Unmarked
+     166      142       42      350   Total
+
+   Count   Missed   %Right
+    1635       26    98.41   ASCII Spacing Characters
+     648      109    83.18   ASCII Special Symbols
+     427        9    97.89   ASCII Digits
+       3        0   100.00   Latin1 Special Symbols
+    7651      159    97.92   Devanagari
+      19        5    73.68   General Punctuation
+       3        0   100.00   Currency Symbols
+   10386      308    97.03   Total
+----------------------------------------------------------------------------- Devanagari Finished Aparajita **********************************
+
+----------------------------------------------------------------------------- Devanagari  allfonts-Aparajita_Bold 
+
+ocreval Accuracy Report Version 7.0
+-----------------------------------
+    4416   Characters
+      59   Errors
+   98.66%  Accuracy
+
+       0   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.00%  Characters Marked
+   98.66%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+      15       38        6       59   Unmarked
+      15       38        6       59   Total
+
+   Count   Missed   %Right
+     666        0   100.00   ASCII Spacing Characters
+     206       13    93.69   ASCII Special Symbols
+     111        1    99.10   ASCII Digits
+       2        0   100.00   Latin1 Special Symbols
+    3428       39    98.86   Devanagari
+       3        0   100.00   General Punctuation
+    4416       53    98.80   Total
+
+----------------------------------------------------------------------------- Devanagari Finished Aparajita Bold **********************************
+
+----------------------------------------------------------------------------- Devanagari  allfonts-Aparajita_Bold_Italic 
+
+ocreval Accuracy Report Version 7.0
+-----------------------------------
+    4480   Characters
+      12   Errors
+   99.73%  Accuracy
+
+       2   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.04%  Characters Marked
+   99.73%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+       3        6        3       12   Unmarked
+       3        6        3       12   Total
+
+   Count   Missed   %Right
+     677        1    99.85   ASCII Spacing Characters
+     210        2    99.05   ASCII Special Symbols
+     162        0   100.00   ASCII Digits
+       2        0   100.00   Latin1 Special Symbols
+    3426        6    99.82   Devanagari
+       2        0   100.00   General Punctuation
+       1        0   100.00   Currency Symbols
+    4480        9    99.80   Total
+----------------------------------------------------------------------------- Devanagari Finished Aparajita Bold Italic **********************************
+
+----------------------------------------------------------------------------- Devanagari  allfonts-Aparajita_Italic 
+
+ocreval Accuracy Report Version 7.0
+-----------------------------------
+    2930   Characters
+     108   Errors
+   96.31%  Accuracy
+
+       0   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.00%  Characters Marked
+   96.31%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+      84       15        9      108   Unmarked
+      84       15        9      108   Total
+
+   Count   Missed   %Right
+     436       11    97.48   ASCII Spacing Characters
+     151        8    94.70   ASCII Special Symbols
+      70        5    92.86   ASCII Digits
+    2269       74    96.74   Devanagari
+       4        1    75.00   General Punctuation
+    2930       99    96.62   Total
+
+  Errors   Marked   Correct-Generated
+----------------------------------------------------------------------------- Devanagari Finished Aparajita Italic **********************************
+
+----------------------------------------------------------------------------- Devanagari  allfonts-Arial_Unicode_MS 
+
+ocreval Accuracy Report Version 7.0
+-----------------------------------
+    5875   Characters
+      15   Errors
+   99.74%  Accuracy
+
+       1   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.02%  Characters Marked
+   99.74%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+       2        9        4       15   Unmarked
+       2        9        4       15   Total
+
+   Count   Missed   %Right
+     881        1    99.89   ASCII Spacing Characters
+     260        1    99.62   ASCII Special Symbols
+     123        0   100.00   ASCII Digits
+       1        0   100.00   Latin1 Special Symbols
+    4559        8    99.82   Devanagari
+      51        1    98.04   General Punctuation
+    5875       11    99.81   Total
+
+----------------------------------------------------------------------------- Devanagari Finished Arial Unicode MS **********************************
+
+----------------------------------------------------------------------------- Devanagari  allfonts-Arya 
+
+cat: /home/ubuntu/tesstrain-deva/gt/allfonts-Arya/Arya.26.exp-1-allfontsMinus_fast.txt: No such file or directory
+ocreval Accuracy Report Version 7.0
+-----------------------------------
+    4425   Characters
+    1587   Errors
+   64.14%  Accuracy
+
+       0   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.00%  Characters Marked
+   64.14%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+    1561       21        5     1587   Unmarked
+    1561       21        5     1587   Total
+
+   Count   Missed   %Right
+     719      271    62.31   ASCII Spacing Characters
+     221       66    70.14   ASCII Special Symbols
+     103       13    87.38   ASCII Digits
+    3368     1229    63.51   Devanagari
+      10        1    90.00   General Punctuation
+       4        2    50.00   Currency Symbols
+    4425     1582    64.25   Total
+
+----------------------------------------------------------------------------- Devanagari Finished Arya **********************************
+
+----------------------------------------------------------------------------- Devanagari  allfonts-Arya_Bold 
+
+ocreval Accuracy Report Version 7.0
+-----------------------------------
+    5838   Characters
+      93   Errors
+   98.41%  Accuracy
+
+       0   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.00%  Characters Marked
+   98.41%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+      35       54        4       93   Unmarked
+      35       54        4       93   Total
+
+   Count   Missed   %Right
+     919        4    99.56   ASCII Spacing Characters
+     243       24    90.12   ASCII Special Symbols
+     134        0   100.00   ASCII Digits
+       1        0   100.00   Latin1 Special Symbols
+    4533       60    98.68   Devanagari
+       5        1    80.00   General Punctuation
+       3        0   100.00   Currency Symbols
+    5838       89    98.48   Total
+----------------------------------------------------------------------------- Devanagari Finished Arya Bold **********************************
+
+----------------------------------------------------------------------------- Devanagari  allfonts-Baloo 
+
+ocreval Accuracy Report Version 7.0
+-----------------------------------
+    1425   Characters
+      23   Errors
+   98.39%  Accuracy
+
+       1   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.07%  Characters Marked
+   98.39%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+       9       10        4       23   Unmarked
+       9       10        4       23   Total
+
+   Count   Missed   %Right
+     210        2    99.05   ASCII Spacing Characters
+      64        6    90.62   ASCII Special Symbols
+      30        0   100.00   ASCII Digits
+    1118       11    99.02   Devanagari
+       3        0   100.00   General Punctuation
+    1425       19    98.67   Total
+
+  Errors   Marked   Correct-Generated
+----------------------------------------------------------------------------- Devanagari Finished Baloo **********************************
+
+----------------------------------------------------------------------------- Devanagari  allfonts-Chandas 
+
+ocreval Accuracy Report Version 7.0
+-----------------------------------
+    1485   Characters
+     129   Errors
+   91.31%  Accuracy
+
+       0   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.00%  Characters Marked
+   91.31%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+     105       22        2      129   Unmarked
+     105       22        2      129   Total
+
+   Count   Missed   %Right
+     228       14    93.86   ASCII Spacing Characters
+      85        5    94.12   ASCII Special Symbols
+      48        1    97.92   ASCII Digits
+    1100      106    90.36   Devanagari
+      24        1    95.83   General Punctuation
+    1485      127    91.45   Total
+
+  Errors   Marked   Correct-Generated
+----------------------------------------------------------------------------- Devanagari Finished Chandas **********************************
+
+----------------------------------------------------------------------------- Devanagari  allfonts-Dinah 
+
+ocreval Accuracy Report Version 7.0
+-----------------------------------
+    1508   Characters
+       9   Errors
+   99.40%  Accuracy
+
+       0   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.00%  Characters Marked
+   99.40%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+       5        3        1        9   Unmarked
+       5        3        1        9   Total
+
+   Count   Missed   %Right
+     257        0   100.00   ASCII Spacing Characters
+      53        0   100.00   ASCII Special Symbols
+      50        4    92.00   ASCII Digits
+       1        0   100.00   Latin1 Special Symbols
+    1145        4    99.65   Devanagari
+       1        0   100.00   General Punctuation
+       1        0   100.00   Currency Symbols
+    1508        8    99.47   Total
+----------------------------------------------------------------------------- Devanagari Finished Dinah **********************************
+
+----------------------------------------------------------------------------- Devanagari  allfonts-DinahVAA_Bold 
+
+ocreval Accuracy Report Version 7.0
+-----------------------------------
+    7484   Characters
+      77   Errors
+   98.97%  Accuracy
+
+       3   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.04%  Characters Marked
+   98.97%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+      26       36       15       77   Unmarked
+      26       36       15       77   Total
+
+   Count   Missed   %Right
+       1        0   100.00   Unassigned
+    1204        1    99.92   ASCII Spacing Characters
+     306        9    97.06   ASCII Special Symbols
+     132        4    96.97   ASCII Digits
+       1        1     0.00   Latin1 Special Symbols
+    5827       46    99.21   Devanagari
+       8        1    87.50   General Punctuation
+       5        0   100.00   Currency Symbols
+----------------------------------------------------------------------------- Devanagari Finished DinahVAA Bold **********************************
+
+----------------------------------------------------------------------------- Devanagari  allfonts-Eczar 
+

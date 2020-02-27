@@ -1,0 +1,650 @@
+ ********************Devanagari ***** allfonts-shreelipi ********************
+   94.27%  Accuracy
+       3        0   100.00   ASCII Digits
+     826       37    95.52   Devanagari
+ ********************Devanagari ***** allfonts-Adobe_Devanagari ********************
+   90.65%  Accuracy
+     405        6    98.52   ASCII Digits
+    4314      425    90.15   Devanagari
+      17        6    64.71   General Punctuation
+Finished Adobe Devanagari
+ ********************Devanagari ***** allfonts-Aksharyogini2 ********************
+   90.68%  Accuracy
+     209        1    99.52   ASCII Digits
+    2191      212    90.32   Devanagari
+      31       11    64.52   General Punctuation
+ ********************Devanagari ***** allfonts-Amiko ********************
+   94.21%  Accuracy
+     144        0   100.00   ASCII Digits
+    2174      121    94.43   Devanagari
+       4        3    25.00   General Punctuation
+ ********************Devanagari ***** allfonts-Amiko_Bold ********************
+   93.79%  Accuracy
+     279        0   100.00   ASCII Digits
+    3297      202    93.87   Devanagari
+       8        3    62.50   General Punctuation
+ ********************Devanagari ***** allfonts-Amiko_Semi-Bold ********************
+   93.07%  Accuracy
+     223        1    99.55   ASCII Digits
+    3274      220    93.28   Devanagari
+      11        5    54.55   General Punctuation
+ ********************Devanagari ***** allfonts-Amita ********************
+   75.62%  Accuracy
+      82        4    95.12   ASCII Digits
+     962      162    83.16   Devanagari
+       3        3     0.00   General Punctuation
+ ********************Devanagari ***** allfonts-Amita_Bold ********************
+   84.26%  Accuracy
+     123        8    93.50   ASCII Digits
+    2169      256    88.20   Devanagari
+       3        3     0.00   General Punctuation
+ ********************Devanagari ***** allfonts-Annapurna_SIL ********************
+   96.47%  Accuracy
+     149        1    99.33   ASCII Digits
+    3197       74    97.69   Devanagari
+       9        3    66.67   General Punctuation
+ ********************Devanagari ***** allfonts-Annapurna_SIL_Bold ********************
+   95.92%  Accuracy
+     252        2    99.21   ASCII Digits
+    4373      120    97.26   Devanagari
+      10        3    70.00   General Punctuation
+ ********************Devanagari ***** allfonts-Aparajita ********************
+   83.69%  Accuracy
+     427       36    91.57   ASCII Digits
+    7651     1157    84.88   Devanagari
+      19       18     5.26   General Punctuation
+ ********************Devanagari ***** allfonts-Aparajita_Bold ********************
+   88.38%  Accuracy
+     111        8    92.79   ASCII Digits
+    3428      378    88.97   Devanagari
+       3        2    33.33   General Punctuation
+ ********************Devanagari ***** allfonts-Aparajita_Bold_Italic ********************
+   86.90%  Accuracy
+     162       11    93.21   ASCII Digits
+    3426      405    88.18   Devanagari
+       2        1    50.00   General Punctuation
+ ********************Devanagari ***** allfonts-Aparajita_Italic ********************
+   79.35%  Accuracy
+      70       12    82.86   ASCII Digits
+    2269      455    79.95   Devanagari
+       4        3    25.00   General Punctuation
+ ********************Devanagari ***** allfonts-Arial_Unicode_MS ********************
+   95.78%  Accuracy
+     123        0   100.00   ASCII Digits
+    4559      200    95.61   Devanagari
+      51        2    96.08   General Punctuation
+ ********************Devanagari ***** allfonts-Arya ********************
+   85.31%  Accuracy
+     103        2    98.06   ASCII Digits
+    3368      489    85.48   Devanagari
+      10        9    10.00   General Punctuation
+ ********************Devanagari ***** allfonts-Arya_Bold ********************
+   89.50%  Accuracy
+     134        0   100.00   ASCII Digits
+    4533      440    90.29   Devanagari
+       5        3    40.00   General Punctuation
+ ********************Devanagari ***** allfonts-Baloo ********************
+   92.21%  Accuracy
+      30        0   100.00   ASCII Digits
+    1118       60    94.63   Devanagari
+       3        1    66.67   General Punctuation
+ ********************Devanagari ***** allfonts-Chandas ********************
+   86.73%  Accuracy
+      48        0   100.00   ASCII Digits
+    1100      172    84.36   Devanagari
+      24        1    95.83   General Punctuation
+ ********************Devanagari ***** allfonts-Dinah ********************
+   88.20%  Accuracy
+      50       24    52.00   ASCII Digits
+    1145      123    89.26   Devanagari
+       1        0   100.00   General Punctuation
+ ********************Devanagari ***** allfonts-DinahVAA_Bold ********************
+   89.87%  Accuracy
+     132       57    56.82   ASCII Digits
+    5827      532    90.87   Devanagari
+       8        6    25.00   General Punctuation
+ ********************Devanagari ***** allfonts-Eczar ********************
+   94.14%  Accuracy
+      59        0   100.00   ASCII Digits
+    4537      244    94.62   Devanagari
+       7        3    57.14   General Punctuation
+ ********************Devanagari ***** allfonts-Eczar_Bold ********************
+   94.61%  Accuracy
+      66        3    95.45   ASCII Digits
+    3470      177    94.90   Devanagari
+       5        2    60.00   General Punctuation
+ ********************Devanagari ***** allfonts-Eczar_Medium ********************
+   95.48%  Accuracy
+     157        3    98.09   ASCII Digits
+    4566      162    96.45   Devanagari
+      16        6    62.50   General Punctuation
+ ********************Devanagari ***** allfonts-Eczar_Semi-Bold ********************
+   95.28%  Accuracy
+     113        0   100.00   ASCII Digits
+    4589      191    95.84   Devanagari
+       6        1    83.33   General Punctuation
+ ********************Devanagari ***** allfonts-Eczar_Ultra-Bold ********************
+   91.02%  Accuracy
+     101        6    94.06   ASCII Digits
+    3449      318    90.78   Devanagari
+      10        3    70.00   General Punctuation
+ ********************Devanagari ***** allfonts-Ek_Mukta ********************
+   93.95%  Accuracy
+      61        0   100.00   ASCII Digits
+    2227      132    94.07   Devanagari
+       3        2    33.33   General Punctuation
+ ********************Devanagari ***** allfonts-Ek_Mukta_Bold ********************
+   92.73%  Accuracy
+     144        1    99.31   ASCII Digits
+    4628      302    93.47   Devanagari
+      16        8    50.00   General Punctuation
+ ********************Devanagari ***** allfonts-Ek_Mukta_Light ********************
+   92.13%  Accuracy
+     175        0   100.00   ASCII Digits
+    5668      424    92.52   Devanagari
+       6        4    33.33   General Punctuation
+ ********************Devanagari ***** allfonts-Ek_Mukta_Medium ********************
+   94.48%  Accuracy
+     121        0   100.00   ASCII Digits
+    5764      286    95.04   Devanagari
+      11        6    45.45   General Punctuation
+ ********************Devanagari ***** allfonts-Ek_Mukta_Semi-Bold ********************
+   93.69%  Accuracy
+     182        1    99.45   ASCII Digits
+    4612      243    94.73   Devanagari
+      12        6    50.00   General Punctuation
+ ********************Devanagari ***** allfonts-Ek_Mukta_Ultra-Bold ********************
+   91.60%  Accuracy
+     127        6    95.28   ASCII Digits
+    6937      601    91.34   Devanagari
+      14        7    50.00   General Punctuation
+ ********************Devanagari ***** allfonts-FreeMono ********************
+   87.64%  Accuracy
+      89        3    96.63   ASCII Digits
+    1095       83    92.42   Devanagari
+       2        0   100.00   General Punctuation
+ ********************Devanagari ***** allfonts-FreeSans ********************
+   93.60%  Accuracy
+      66        0   100.00   ASCII Digits
+    2364      125    94.71   Devanagari
+       4        3    25.00   General Punctuation
+ ********************Devanagari ***** allfonts-FreeSans_Semi-Bold ********************
+   92.29%  Accuracy
+      24        1    95.83   ASCII Digits
+    2333      176    92.46   Devanagari
+       6        2    66.67   General Punctuation
+ ********************Devanagari ***** allfonts-FreeSerif ********************
+   83.30%  Accuracy
+      55        0   100.00   ASCII Digits
+    2324      378    83.73   Devanagari
+      10        8    20.00   General Punctuation
+ ********************Devanagari ***** allfonts-FreeSerif_Bold ********************
+   92.52%  Accuracy
+      87        3    96.55   ASCII Digits
+    3513      244    93.05   Devanagari
+       3        3     0.00   General Punctuation
+ ********************Devanagari ***** allfonts-Gargi ********************
+   95.29%  Accuracy
+      42        1    97.62   ASCII Digits
+    2285       72    96.85   Devanagari
+      23        2    91.30   General Punctuation
+ ********************Devanagari ***** allfonts-Glegoo ********************
+   94.33%  Accuracy
+      53        1    98.11   ASCII Digits
+    2280       96    95.79   Devanagari
+       5        3    40.00   General Punctuation
+ ********************Devanagari ***** allfonts-Glegoo_Bold ********************
+   93.37%  Accuracy
+      35        1    97.14   ASCII Digits
+    2407      148    93.85   Devanagari
+       3        1    66.67   General Punctuation
+ ********************Devanagari ***** allfonts-Halant ********************
+   92.99%  Accuracy
+      23        0   100.00   ASCII Digits
+    1164       81    93.04   Devanagari
+       4        0   100.00   General Punctuation
+ ********************Devanagari ***** allfonts-Halant_Bold ********************
+   94.33%  Accuracy
+     209        6    97.13   ASCII Digits
+    6899      414    94.00   Devanagari
+      48        6    87.50   General Punctuation
+ ********************Devanagari ***** allfonts-Halant_Light ********************
+   92.93%  Accuracy
+      96        0   100.00   ASCII Digits
+    2249      166    92.62   Devanagari
+      24        1    95.83   General Punctuation
+ ********************Devanagari ***** allfonts-Halant_Medium ********************
+   92.60%  Accuracy
+      93        1    98.92   ASCII Digits
+    5811      428    92.63   Devanagari
+      39        7    82.05   General Punctuation
+ ********************Devanagari ***** allfonts-Halant_Semi-Bold ********************
+   94.52%  Accuracy
+     154        0   100.00   ASCII Digits
+    3268      170    94.80   Devanagari
+      39        3    92.31   General Punctuation
+ ********************Devanagari ***** allfonts-Inknut_Antiqua ********************
+   90.01%  Accuracy
+      44        4    90.91   ASCII Digits
+    1128      113    89.98   Devanagari
+       2        0   100.00   General Punctuation
+ ********************Devanagari ***** allfonts-Inknut_Antiqua_Bold ********************
+   85.53%  Accuracy
+     110       21    80.91   ASCII Digits
+    4635      668    85.59   Devanagari
+       6        2    66.67   General Punctuation
+ ********************Devanagari ***** allfonts-Inknut_Antiqua_Heavy ********************
+   79.17%  Accuracy
+      52       13    75.00   ASCII Digits
+    2280      478    79.04   Devanagari
+       3        2    33.33   General Punctuation
+ ********************Devanagari ***** allfonts-Inknut_Antiqua_Light ********************
+   88.51%  Accuracy
+      99       10    89.90   ASCII Digits
+    3426      397    88.41   Devanagari
+       6        2    66.67   General Punctuation
+ ********************Devanagari ***** allfonts-Inknut_Antiqua_Medium ********************
+   85.72%  Accuracy
+     138       30    78.26   ASCII Digits
+    4574      669    85.37   Devanagari
+       6        2    66.67   General Punctuation
+ ********************Devanagari ***** allfonts-Inknut_Antiqua_Semi-Bold ********************
+   89.23%  Accuracy
+      69        9    86.96   ASCII Digits
+    2357      269    88.59   Devanagari
+       5        3    40.00   General Punctuation
+ ********************Devanagari ***** allfonts-Inknut_Antiqua_Ultra-Bold ********************
+   84.32%  Accuracy
+      44       19    56.82   ASCII Digits
+    2370      359    84.85   Devanagari
+       3        1    66.67   General Punctuation
+ ********************Devanagari ***** allfonts-Jaldi ********************
+   92.88%  Accuracy
+      43        0   100.00   ASCII Digits
+    3563      229    93.57   Devanagari
+       1        1     0.00   General Punctuation
+ ********************Devanagari ***** allfonts-Kadwa ********************
+   95.12%  Accuracy
+      96        1    98.96   ASCII Digits
+    3546      159    95.52   Devanagari
+       5        2    60.00   General Punctuation
+ ********************Devanagari ***** allfonts-Kokila ********************
+   92.03%  Accuracy
+      44        1    97.73   ASCII Digits
+    2387      175    92.67   Devanagari
+       3        2    33.33   General Punctuation
+ ********************Devanagari ***** allfonts-Kokila_Bold ********************
+   88.25%  Accuracy
+      77        5    93.51   ASCII Digits
+    4642      587    87.35   Devanagari
+      10        5    50.00   General Punctuation
+ ********************Devanagari ***** allfonts-Kokila_Bold_Italic ********************
+   85.80%  Accuracy
+      62        9    85.48   ASCII Digits
+    3513      493    85.97   Devanagari
+       5        4    20.00   General Punctuation
+ ********************Devanagari ***** allfonts-Kokila_Italic ********************
+   85.41%  Accuracy
+     111       21    81.08   ASCII Digits
+    3432      465    86.45   Devanagari
+      10        9    10.00   General Punctuation
+ ********************Devanagari ***** allfonts-Laila ********************
+   91.27%  Accuracy
+      20        0   100.00   ASCII Digits
+    1158      113    90.24   Devanagari
+       5        2    60.00   General Punctuation
+ ********************Devanagari ***** allfonts-Laila_Bold ********************
+   94.38%  Accuracy
+      53        0   100.00   ASCII Digits
+    1137       76    93.32   Devanagari
+      11        1    90.91   General Punctuation
+ ********************Devanagari ***** allfonts-Laila_Light ********************
+   94.24%  Accuracy
+     173        0   100.00   ASCII Digits
+    4439      257    94.21   Devanagari
+      62       14    77.42   General Punctuation
+ ********************Devanagari ***** allfonts-Laila_Medium ********************
+   94.38%  Accuracy
+      70        1    98.57   ASCII Digits
+    2269      138    93.92   Devanagari
+      22        2    90.91   General Punctuation
+ ********************Devanagari ***** allfonts-Laila_Semi-Bold ********************
+   93.44%  Accuracy
+      89        0   100.00   ASCII Digits
+    3489      251    92.81   Devanagari
+      21        3    85.71   General Punctuation
+ ********************Devanagari ***** allfonts-Lohit_Devanagari ********************
+   94.42%  Accuracy
+      79        6    92.41   ASCII Digits
+    3482      179    94.86   Devanagari
+       2        1    50.00   General Punctuation
+Finished Lohit Devanagari
+ ********************Devanagari ***** allfonts-Mangal ********************
+   92.74%  Accuracy
+      50        0   100.00   ASCII Digits
+    2496      179    92.83   Devanagari
+       3        1    66.67   General Punctuation
+ ********************Devanagari ***** allfonts-Mangal_Bold ********************
+   93.77%  Accuracy
+      94        0   100.00   ASCII Digits
+    3335      186    94.42   Devanagari
+      10        5    50.00   General Punctuation
+ ********************Devanagari ***** allfonts-Martel ********************
+   94.72%  Accuracy
+     102        0   100.00   ASCII Digits
+    3441      165    95.20   Devanagari
+      11        6    45.45   General Punctuation
+ ********************Devanagari ***** allfonts-Martel_Bold ********************
+   97.18%  Accuracy
+      46        0   100.00   ASCII Digits
+    1126       24    97.87   Devanagari
+       3        0   100.00   General Punctuation
+ ********************Devanagari ***** allfonts-Martel_Heavy ********************
+   95.14%  Accuracy
+      80        4    95.00   ASCII Digits
+    3505      152    95.66   Devanagari
+       5        3    40.00   General Punctuation
+ ********************Devanagari ***** allfonts-Martel_Light ********************
+   91.81%  Accuracy
+      99        6    93.94   ASCII Digits
+    3459      270    92.19   Devanagari
+       5        2    60.00   General Punctuation
+ ********************Devanagari ***** allfonts-Martel_Sans ********************
+   94.41%  Accuracy
+     105        1    99.05   ASCII Digits
+    3465      178    94.86   Devanagari
+       2        1    50.00   General Punctuation
+ ********************Devanagari ***** allfonts-Martel_Sans_Bold ********************
+   95.64%  Accuracy
+      95        0   100.00   ASCII Digits
+    2264       75    96.69   Devanagari
+       3        3     0.00   General Punctuation
+ ********************Devanagari ***** allfonts-Martel_Sans_Heavy ********************
+   94.33%  Accuracy
+     141        3    97.87   ASCII Digits
+    4592      227    95.06   Devanagari
+       9        4    55.56   General Punctuation
+ ********************Devanagari ***** allfonts-Martel_Sans_Light ********************
+   95.32%  Accuracy
+     136        1    99.26   ASCII Digits
+    3412      150    95.60   Devanagari
+      10        6    40.00   General Punctuation
+ ********************Devanagari ***** allfonts-Martel_Sans_Semi-Bold ********************
+   92.51%  Accuracy
+      68        0   100.00   ASCII Digits
+    2290      152    93.36   Devanagari
+       3        2    33.33   General Punctuation
+ ********************Devanagari ***** allfonts-Martel_Sans_Ultra-Bold ********************
+   93.90%  Accuracy
+      62        1    98.39   ASCII Digits
+    3447      179    94.81   Devanagari
+      16       10    37.50   General Punctuation
+ ********************Devanagari ***** allfonts-Martel_Semi-Bold ********************
+   95.40%  Accuracy
+     307        6    98.05   ASCII Digits
+    9090      314    96.55   Devanagari
+      31       17    45.16   General Punctuation
+ ********************Devanagari ***** allfonts-Martel_Ultra-Bold ********************
+   96.11%  Accuracy
+      65        0   100.00   ASCII Digits
+    3541      110    96.89   Devanagari
+       5        3    40.00   General Punctuation
+ ********************Devanagari ***** allfonts-Martel_weight=250 ********************
+   90.88%  Accuracy
+     146        6    95.89   ASCII Digits
+    4583      386    91.58   Devanagari
+      17       13    23.53   General Punctuation
+ ********************Devanagari ***** allfonts-Mukta ********************
+   93.54%  Accuracy
+     129        1    99.22   ASCII Digits
+    4646      285    93.87   Devanagari
+       7        4    42.86   General Punctuation
+ ********************Devanagari ***** allfonts-Mukta_Bold ********************
+   92.70%  Accuracy
+     214        2    99.07   ASCII Digits
+    6988      470    93.27   Devanagari
+      16        8    50.00   General Punctuation
+ ********************Devanagari ***** allfonts-Mukta_Light ********************
+   92.44%  Accuracy
+     199        0   100.00   ASCII Digits
+    6751      487    92.79   Devanagari
+      11        4    63.64   General Punctuation
+ ********************Devanagari ***** allfonts-Mukta_Medium ********************
+   94.61%  Accuracy
+     256        1    99.61   ASCII Digits
+   10411      513    95.07   Devanagari
+      21       13    38.10   General Punctuation
+ ********************Devanagari ***** allfonts-Mukta_Semi-Bold ********************
+   93.42%  Accuracy
+     214        2    99.07   ASCII Digits
+    6926      415    94.01   Devanagari
+      16        8    50.00   General Punctuation
+ ********************Devanagari ***** allfonts-Mukta_Ultra-Bold ********************
+   92.24%  Accuracy
+     242        7    97.11   ASCII Digits
+   12777      996    92.20   Devanagari
+      26       12    53.85   General Punctuation
+ ********************Devanagari ***** allfonts-Murty_Hindi ********************
+   90.23%  Accuracy
+      25        0   100.00   ASCII Digits
+    1157      103    91.10   Devanagari
+ ********************Devanagari ***** allfonts-Murty_Sanskrit ********************
+   93.04%  Accuracy
+      46        0   100.00   ASCII Digits
+    2329      155    93.34   Devanagari
+       4        2    50.00   General Punctuation
+ ********************Devanagari ***** allfonts-Nakula ********************
+   96.22%  Accuracy
+      37        0   100.00   ASCII Digits
+    1123       37    96.71   Devanagari
+      14        1    92.86   General Punctuation
+ ********************Devanagari ***** allfonts-Nirmala_UI ********************
+   95.24%  Accuracy
+      54        0   100.00   ASCII Digits
+    2350      106    95.49   Devanagari
+       3        2    33.33   General Punctuation
+ ********************Devanagari ***** allfonts-Nirmala_UI_Bold ********************
+   95.36%  Accuracy
+     178        3    98.31   ASCII Digits
+    5716      220    96.15   Devanagari
+       5        2    60.00   General Punctuation
+ ********************Devanagari ***** allfonts-Nirmala_UI_Semi-Light ********************
+   93.51%  Accuracy
+     229        1    99.56   ASCII Digits
+    7114      428    93.98   Devanagari
+      11        8    27.27   General Punctuation
+ ********************Devanagari ***** allfonts-Pragati_Narrow ********************
+   88.02%  Accuracy
+     117        1    99.15   ASCII Digits
+    3378      424    87.45   Devanagari
+       4        4     0.00   General Punctuation
+ ********************Devanagari ***** allfonts-Pragati_Narrow_Bold ********************
+   84.79%  Accuracy
+       7        1    85.71   ASCII Digits
+    1154      173    85.01   Devanagari
+       1        1     0.00   General Punctuation
+ ********************Devanagari ***** allfonts-Ranga ********************
+   67.32%  Accuracy
+      72       16    77.78   ASCII Digits
+    5802     2129    63.31   Devanagari
+      24        6    75.00   General Punctuation
+ ********************Devanagari ***** allfonts-Ranga_Bold ********************
+   76.59%  Accuracy
+      83       12    85.54   ASCII Digits
+    3412      849    75.12   Devanagari
+      30        6    80.00   General Punctuation
+ ********************Devanagari ***** allfonts-Rhodium_Libre ********************
+   93.91%  Accuracy
+      49        3    93.88   ASCII Digits
+    1104       55    95.02   Devanagari
+       4        3    25.00   General Punctuation
+ ********************Devanagari ***** allfonts-Sahadeva ********************
+   93.68%  Accuracy
+     143        1    99.30   ASCII Digits
+    3442      219    93.64   Devanagari
+      45        4    91.11   General Punctuation
+ ********************Devanagari ***** allfonts-Sanskrit_2003, ********************
+   91.26%  Accuracy
+      55        1    98.18   ASCII Digits
+    1111      101    90.91   Devanagari
+      10        3    70.00   General Punctuation
+ ********************Devanagari ***** allfonts-Sanskrit_Text ********************
+   95.34%  Accuracy
+     130        0   100.00   ASCII Digits
+    3483      152    95.64   Devanagari
+       7        3    57.14   General Punctuation
+ ********************Devanagari ***** allfonts-Santipur_OT_Medium ********************
+   84.00%  Accuracy
+      38        0   100.00   ASCII Digits
+    2314      405    82.50   Devanagari
+      26        6    76.92   General Punctuation
+ ********************Devanagari ***** allfonts-Sarala ********************
+   94.62%  Accuracy
+     110        1    99.09   ASCII Digits
+    2293      117    94.90   Devanagari
+       3        0   100.00   General Punctuation
+ ********************Devanagari ***** allfonts-Sarala_Bold ********************
+   92.07%  Accuracy
+      81        0   100.00   ASCII Digits
+    3534      289    91.82   Devanagari
+       5        2    60.00   General Punctuation
+ ********************Devanagari ***** allfonts-Shobhika ********************
+   94.13%  Accuracy
+      13        1    92.31   ASCII Digits
+    1182       63    94.67   Devanagari
+       1        0   100.00   General Punctuation
+ ********************Devanagari ***** allfonts-Shobhika_Bold ********************
+   92.24%  Accuracy
+     134        7    94.78   ASCII Digits
+    4588      319    93.05   Devanagari
+      10        2    80.00   General Punctuation
+ ********************Devanagari ***** allfonts-Siddhanta ********************
+   94.37%  Accuracy
+      84        0   100.00   ASCII Digits
+    3527      216    93.88   Devanagari
+      44        2    95.45   General Punctuation
+ ********************Devanagari ***** allfonts-Siddhanta-Calcutta ********************
+   89.69%  Accuracy
+     143        0   100.00   ASCII Digits
+    3377      351    89.61   Devanagari
+      50        7    86.00   General Punctuation
+ ********************Devanagari ***** allfonts-Siddhanta-cakravat ********************
+   93.27%  Accuracy
+      82        0   100.00   ASCII Digits
+    2320      179    92.28   Devanagari
+      16        1    93.75   General Punctuation
+ ********************Devanagari ***** allfonts-Sura ********************
+   93.33%  Accuracy
+      55        1    98.18   ASCII Digits
+    2247      123    94.53   Devanagari
+       4        1    75.00   General Punctuation
+ ********************Devanagari ***** allfonts-Sura_Bold ********************
+   92.45%  Accuracy
+      88        4    95.45   ASCII Digits
+    3420      202    94.09   Devanagari
+       8        4    50.00   General Punctuation
+ ********************Devanagari ***** allfonts-Utsaah ********************
+   87.29%  Accuracy
+      45        2    95.56   ASCII Digits
+    2304      275    88.06   Devanagari
+       5        5     0.00   General Punctuation
+ ********************Devanagari ***** allfonts-Utsaah_Bold ********************
+   92.14%  Accuracy
+     133        2    98.50   ASCII Digits
+    4664      352    92.45   Devanagari
+      13        5    61.54   General Punctuation
+ ********************Devanagari ***** allfonts-Utsaah_Bold_Italic ********************
+   92.93%  Accuracy
+      54        0   100.00   ASCII Digits
+    2334      162    93.06   Devanagari
+       5        2    60.00   General Punctuation
+ ********************Devanagari ***** allfonts-Utsaah_Italic ********************
+   77.48%  Accuracy
+      74        3    95.95   ASCII Digits
+    2273      559    75.41   Devanagari
+       3        3     0.00   General Punctuation
+ ********************Devanagari ***** allfonts-Uttara ********************
+   88.16%  Accuracy
+     157        0   100.00   ASCII Digits
+    4659      572    87.72   Devanagari
+      54        7    87.04   General Punctuation
+ ********************Devanagari ***** allfonts-Vesper_Libre ********************
+   93.17%  Accuracy
+     187        2    98.93   ASCII Digits
+    4620      293    93.66   Devanagari
+      12        4    66.67   General Punctuation
+ ********************Devanagari ***** allfonts-Vesper_Libre_Bold ********************
+   91.38%  Accuracy
+      38        2    94.74   ASCII Digits
+    1135      100    91.19   Devanagari
+       1        0   100.00   General Punctuation
+ ********************Devanagari ***** allfonts-Vesper_Libre_Heavy ********************
+   92.00%  Accuracy
+      84        9    89.29   ASCII Digits
+    3485      257    92.63   Devanagari
+       5        1    80.00   General Punctuation
+ ********************Devanagari ***** allfonts-Vesper_Libre_Medium ********************
+   95.58%  Accuracy
+     195       11    94.36   ASCII Digits
+    5641      201    96.44   Devanagari
+      11        5    54.55   General Punctuation
+ ********************Devanagari ***** allfonts-Yashomudra ********************
+   94.55%  Accuracy
+      56        0   100.00   ASCII Digits
+    2308      125    94.58   Devanagari
+      19        0   100.00   General Punctuation
+ ********************Devanagari ***** allfonts-Yashomudra_Bold ********************
+   93.20%  Accuracy
+     117        1    99.15   ASCII Digits
+    4623      326    92.95   Devanagari
+      20        1    95.00   General Punctuation
+ ********************Devanagari ***** allfonts-Yashomudra_Bold_Italic ********************
+   90.14%  Accuracy
+     187        7    96.26   ASCII Digits
+    4512      446    90.12   Devanagari
+      56        1    98.21   General Punctuation
+ ********************Devanagari ***** allfonts-Yashomudra_Italic ********************
+   86.49%  Accuracy
+      58        0   100.00   ASCII Digits
+    2317      332    85.67   Devanagari
+      14        5    64.29   General Punctuation
+ ********************Devanagari ***** allfonts-YashomudraLight ********************
+   89.02%  Accuracy
+      87        6    93.10   ASCII Digits
+    3477      365    89.50   Devanagari
+      24        3    87.50   General Punctuation
+ ********************Devanagari ***** allfonts-YashomudraLight_Italic ********************
+   85.29%  Accuracy
+     276       21    92.39   ASCII Digits
+    7911     1167    85.25   Devanagari
+      89       20    77.53   General Punctuation
+ ********************Devanagari ***** allfonts-YashomudraMedium ********************
+   95.75%  Accuracy
+     120        2    98.33   ASCII Digits
+    3381      145    95.71   Devanagari
+      43        4    90.70   General Punctuation
+ ********************Devanagari ***** allfonts-YashomudraMedium_Italic ********************
+   90.54%  Accuracy
+     125        5    96.00   ASCII Digits
+    4579      416    90.92   Devanagari
+      51        5    90.20   General Punctuation
+ ********************Devanagari ***** allfonts-YashomudraSemiBold_Bold ********************
+   94.50%  Accuracy
+     157        0   100.00   ASCII Digits
+    4610      269    94.16   Devanagari
+      33        6    81.82   General Punctuation
+ ********************Devanagari ***** allfonts-YashomudraSemiBold_Bold_Italic ********************
+   85.96%  Accuracy
+      52        5    90.38   ASCII Digits
+    3452      513    85.14   Devanagari
+      11        0   100.00   General Punctuation
+ ********************Devanagari ***** allfonts-Yatra_One ********************
+   89.10%  Accuracy
+      13        1    92.31   ASCII Digits
+    2335      254    89.12   Devanagari
+       2        0   100.00   General Punctuation
+ ********************Devanagari ***** allfonts-e-Nagari_OT ********************
+   94.65%  Accuracy
+       8        0   100.00   ASCII Digits
+    1168       61    94.78   Devanagari
+       1        0   100.00   General Punctuation
